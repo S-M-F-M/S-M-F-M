@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**S-M-F-M/S-M-F-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨💻 About Me
+* 🔭 I'm currently working on **T_Pro**
+* 🌱 I'm currently learning **Python, JS**
+* 📫 How to reach me: **53446529+S-M-F-M@users.noreply.github.com**
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+* **Languages:** [Python, JavaScript, C++]
+* **Frameworks:** [React, Node.js, Django]
+* **Tools:** [Git, Docker, AWS]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-M-F-M&layout=compact&theme=vision-friendly-dark)](https://github.com/S-M-F-M)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S-M-F-M&show_icons=true&theme=vision-friendly-dark)
